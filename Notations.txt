@@ -1,0 +1,32 @@
+Notations define the time and space complexity that a program has. It is used for analyising a program complexity, and comparing two or more programs' perfomance to evaluate the better one for use.   
+
+There are mainly three types of notations in programming:
+  
+  1) Big O notation
+  2) Big Omega notation
+  3) Theta Notation
+
+* Big O Notation
+
+It basically tell us about the worst time complexity of program that is at most time required by the program to execute.
+In this notation after a certain value of n (No) the f(n) (complexity function of program) will be smaller than the c.g(n) that is the worst time complexity function.
+
+f(n)<= c.g(n) [Upper Bound]
+
+
+* Big Omega Notation
+
+It gives us insight about the best time complexity of a program that is least time required by the program to execute.
+In this notation after a certain value of n (No) the f(n) (complexity function of program) will be greater than the c.g(n) that is the worst time complexity function.
+
+f(n)>=c.g(n) [Lower Bound]
+
+* Theta Notation
+It depicts about the average time required by the program to execute.
+In some case also called Exact time of program to execute.
+
+c1.g(n)<=f(n)<=c2.g(n) 
+
+There are other two notations which are: 3) Small O 4) Small Omega
+
+The mostly used notation is Big O notation as it tells us about the worst time complexity which is enough for analysing/comparing two or more programs. 
