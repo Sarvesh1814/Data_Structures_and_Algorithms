@@ -8,4 +8,6 @@ it contains topics like:
 4) Hashing and Collision
 5) Stack
 6) Queue
-7) 
+7) General Tree 
+8) Binary Tree
+9) 
