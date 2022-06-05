@@ -9,5 +9,5 @@ it contains topics like:
 5) Stack
 6) Queue
 7) General Tree 
-8) Binary Tree
+8) Binary Tree (Binary Search Tree [BST] 
 9) 
