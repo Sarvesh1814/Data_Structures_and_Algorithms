@@ -10,4 +10,5 @@ it contains topics like:
 6) Queue
 7) General Tree 
 8) Binary Tree (Binary Search Tree [BST] 
-9) 
+9) Graph
+10) Binary Search 
