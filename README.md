@@ -12,3 +12,6 @@ it contains topics like:
 8) Binary Tree (Binary Search Tree [BST] 
 9) Graph
 10) Binary Search 
+11) Bubble Sort
+12) Quick Sort
+13) 
